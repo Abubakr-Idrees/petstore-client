@@ -1,6 +1,6 @@
 # Petstore API Client
 
-A production-quality Ruby client library for the [Swagger Petstore API](https://petstore.swagger.io/v2). This library provides a clean, idiomatic Ruby interface for managing pets and store orders.
+A production-quality Ruby client library for the [Swagger Petstore API]. This library provides a clean, idiomatic Ruby interface for managing pets and store orders.
 
 ## Features
 
