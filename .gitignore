@@ -1,0 +1,11 @@
+*.gem
+*.rbc
+/.bundle/
+/vendor/bundle
+Gemfile.lock
+.rspec_status
+.idea/
+.vscode/
+*.swp
+.DS_Store
+.env
